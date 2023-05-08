@@ -1,0 +1,2 @@
+Apples, 700, 300
+Cherries, 50, 200

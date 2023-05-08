@@ -1,0 +1,3 @@
+Apples, 700, 300
+Cherries, 50, 200
+Bananas, 40, 120
