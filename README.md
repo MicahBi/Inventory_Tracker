@@ -1,6 +1,6 @@
 # Inventory_Tracker
 
-This is a project from four years ago. I am using it to learn how to use github repositories, and hope to develop the project in the future.
+This is a project around 2018. I am using it to learn how to use github repositories, and hope to develop the project in the future.
 
 ## Description
 
