@@ -1,7 +1,5 @@
 # Inventory_Tracker
-
-This is a project around 2018. I am using it to learn how to use github repositories, and hope to develop the project in the future.
-
+###2018
 ## Description
 
 The purpose of this project is to create a list of inventory with amount and cost. Then to display them in a graph. 
